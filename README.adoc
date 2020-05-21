@@ -1,6 +1,6 @@
 [[machine-learning-plugin]]
 = Machine Learning Plugin
-:toc:
+:toc: macro
 
 
 ## Overview
