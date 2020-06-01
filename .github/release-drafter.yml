@@ -1,0 +1,3 @@
+_extends: .github
+tag-template: machine-learning-$NEXT_PATCH_VERSION
+version-template: $MAJOR.$MINOR.$PATCH
