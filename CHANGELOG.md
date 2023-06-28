@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.?
+
+- [#77](https://github.com/jenkinsci/machine-learning-plugin/pull/77): Update Jenkinsfile syntax, thanks @NotMyFault
+
 ## [machine-learning-1.0.1](https://github.com/jenkinsci/machine-learning-plugin/tree/machine-learning-1.0.1) (2020-08-24)
 
 [Full Changelog](https://github.com/jenkinsci/machine-learning-plugin/compare/machine-learning-1.0...machine-learning-1.0.1)
